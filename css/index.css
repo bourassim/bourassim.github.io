@@ -149,7 +149,7 @@ h1 {
   .leftPanel {
     width: 27%;
     background-color: #2a78ab;
-    padding: 0.7cm;
+    padding: 0.4cm;
     display: flex;
     flex-direction: column;
     align-items: center;
